@@ -9,8 +9,7 @@
 6. [API Endpoints](#api-endpoints)
 7. [Usage](#usage)
 8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact](#contact)
+
 
 ## Overview
 The Rule Management System is an application designed to manage rules and evaluate them based on provided attributes. The system allows users to create, combine, and evaluate rules using an Abstract Syntax Tree (AST) representation. It is built using Node.js for the backend and can be integrated with various frontend frameworks.
@@ -67,7 +66,7 @@ Response:[
     "createdAt": "2024-10-17T00:00:00.000Z"
   }
 ]
-Contributing
+### Contributing
 Fork the repository
 Create your feature branch (git checkout -b feature/YourFeature)
 Commit your changes (git commit -m 'Add some feature')
